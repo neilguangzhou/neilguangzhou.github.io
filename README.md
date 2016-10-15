@@ -1,2 +1,1 @@
-# neilguangzhou.github.io
-bog
+blog
